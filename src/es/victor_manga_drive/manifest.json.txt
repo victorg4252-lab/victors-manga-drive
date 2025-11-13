@@ -1,0 +1,10 @@
+{
+  "name": "Victor's Manga Drive",
+  "pkg": "es.victors_manga_drive",
+  "version": 1,
+  "language": "es",
+  "type": "manga",
+  "iconUrl": "https://i.imgur.com/1v3PpAx.png",
+  "nsfw": false,
+  "sourceCode": "https://raw.githubusercontent.com/victorg4252-lab/victors-manga-drive/main/src/es/victors_manga_drive/victors_manga_drive.dart"
+}
