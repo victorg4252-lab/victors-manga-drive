@@ -1,10 +1,10 @@
 {
-  "name": "Victor’s Manga Drive",
+  "name": "Victor's Manga Drive",
   "author": "Victor Garcia",
   "version": 1,
   "language": "es",
-  "url": "https://drive.google.com/uc?id=1y7E9z5ZQTXTkMkmK4MJRWdpM6WWq5LXT",
+  "typeSource": "manga",
   "iconUrl": "https://i.imgur.com/1v3PpAx.png",
-"sourceCode": "https://raw.githubusercontent.com/victorg4252-lab/victors-manga-drive/main/victors_manga_drive.dart"
-  "nsfw": false
+  "nsfw": false,
+  "sourceCode": "https://raw.githubusercontent.com/victorg4252-lab/victors-manga-drive/main/victors_manga_drive.dart"
 }
