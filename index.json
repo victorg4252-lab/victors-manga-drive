@@ -1,0 +1,11 @@
+{
+  "name": "Victor's Extensions Repo",
+  "author": "Victor Garcia",
+  "version": 1,
+  "sources": [
+    {
+      "name": "Victor's Manga Drive",
+      "url": "https://raw.githubusercontent.com/victorg4252-lab/victors-manga-drive/main/victors_manga_drive.json"
+    }
+  ]
+}
