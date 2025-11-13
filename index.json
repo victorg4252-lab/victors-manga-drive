@@ -1,20 +1,26 @@
 {
   "repositoryVersion": 1,
-  "name": "Victor's Extensions Repo",
-  "description": "Repositorio personal de extensiones creadas por Victor Garcia.",
+  "name": "Victor's Manga Drive Repository",
+  "description": "Extensión personalizada de Victor Garcia para Mangayomi.",
   "version": 1,
-  "language": "es",
+  "languages": ["es"],
   "extensions": [
     {
       "name": "Victor's Manga Drive",
-      "pkg": "victors_manga_drive",
+      "pkg": "es.victors_manga_drive",
       "version": 1,
+      "hasReadme": false,
       "language": "es",
-      "typeSource": "manga",
+      "type": "manga",
       "iconUrl": "https://i.imgur.com/1v3PpAx.png",
       "nsfw": false,
-      "sourceCode": "https://raw.githubusercontent.com/victorg4252-lab/victors-manga-drive/main/victors_manga_drive.dart",
-      "jsonUrl": "https://raw.githubusercontent.com/victorg4252-lab/victors-manga-drive/main/victors_manga_drive.json"
+      "sources": [
+        {
+          "name": "Victor's Manga Drive",
+          "baseUrl": "https://drive.google.com",
+          "lang": "es"
+        }
+      ]
     }
   ]
 }
