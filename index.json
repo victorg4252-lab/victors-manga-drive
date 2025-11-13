@@ -1,11 +1,20 @@
 {
+  "repositoryVersion": 1,
   "name": "Victor's Extensions Repo",
-  "author": "Victor Garcia",
+  "description": "Repositorio personal de extensiones creadas por Victor Garcia.",
   "version": 1,
-  "sources": [
+  "language": "es",
+  "extensions": [
     {
       "name": "Victor's Manga Drive",
-      "url": "https://raw.githubusercontent.com/victorg4252-lab/victors-manga-drive/main/victors_manga_drive.json"
+      "pkg": "victors_manga_drive",
+      "version": 1,
+      "language": "es",
+      "typeSource": "manga",
+      "iconUrl": "https://i.imgur.com/1v3PpAx.png",
+      "nsfw": false,
+      "sourceCode": "https://raw.githubusercontent.com/victorg4252-lab/victors-manga-drive/main/victors_manga_drive.dart",
+      "jsonUrl": "https://raw.githubusercontent.com/victorg4252-lab/victors-manga-drive/main/victors_manga_drive.json"
     }
   ]
 }
